@@ -21,6 +21,3 @@ DestGuid="a25d8c006-58fb-4625-a6b9-de2a68694d10a"
 ```
 按下 Ctrl+Click，插件会自动找到对应的定义:
 Guid="a25d8c006-58fb-4625-a6b9-de2a68694d10a"
-
-#### E-mail
-Tianjun Zhang, Zhangtj028@avic.com
