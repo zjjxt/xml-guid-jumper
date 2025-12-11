@@ -1,0 +1,23 @@
+{
+  "name": "xml-guid-jumper",
+  "displayName": "XML GUID Jumper",
+  "description": "Ctrl+Click on GuidDef/SrcGuid/DestGuid to jump to Guid",
+  "version": "0.1.0",
+  "publisher": "AVIC-TjZhang",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Other"
+  ],
+  "activationEvents": [
+    "onLanguage:xml"
+  ],
+  "main": "./extension.js",
+  "contributes": {
+    "languages": [{
+      "id": "xml",
+      "extensions": [".xml"]
+    }]
+  }
+}
